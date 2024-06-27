@@ -1,4 +1,4 @@
-# TYEP
+# TYPE
 
 # DESCEYPTION
 
